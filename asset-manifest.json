@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-test/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-test/static/js/main.39266df2.chunk.js",
-    "main.js.map": "/react-test/static/js/main.39266df2.chunk.js.map",
-    "runtime~main.js": "/react-test/static/js/runtime~main.b9ad4e01.js",
-    "runtime~main.js.map": "/react-test/static/js/runtime~main.b9ad4e01.js.map",
-    "static/js/2.b41502e9.chunk.js": "/react-test/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/react-test/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/react-test/index.html",
-    "precache-manifest.87942860a72efeefdd7e67c70b656926.js": "/react-test/precache-manifest.87942860a72efeefdd7e67c70b656926.js",
-    "service-worker.js": "/react-test/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/react-test/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/react-test/static/media/logo.5d5d9eef.svg"
+    "main.css": "/adn-react-portfolio/static/css/main.2cce8147.chunk.css",
+    "main.js": "/adn-react-portfolio/static/js/main.e0611277.chunk.js",
+    "main.js.map": "/adn-react-portfolio/static/js/main.e0611277.chunk.js.map",
+    "runtime~main.js": "/adn-react-portfolio/static/js/runtime~main.60c36c4e.js",
+    "runtime~main.js.map": "/adn-react-portfolio/static/js/runtime~main.60c36c4e.js.map",
+    "static/js/2.b41502e9.chunk.js": "/adn-react-portfolio/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/adn-react-portfolio/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/adn-react-portfolio/index.html",
+    "precache-manifest.21e1742a94990fd9e68666f0ee1cdf3a.js": "/adn-react-portfolio/precache-manifest.21e1742a94990fd9e68666f0ee1cdf3a.js",
+    "service-worker.js": "/adn-react-portfolio/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/adn-react-portfolio/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/adn-react-portfolio/static/media/logo.5d5d9eef.svg"
   }
 }
